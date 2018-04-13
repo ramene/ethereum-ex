@@ -1,6 +1,6 @@
 # ethereum-ex
 
-The Ethereum Example written in Solidity.
+An Ethereum Example written in Solidity., derived and inspired by Transmute Framework and Fabio José and supplementary article here: https://medium.com/@fabiojose/build-a-smart-contract-to-sell-goods-6cf73609d25
 
 ## Dependencies
 
