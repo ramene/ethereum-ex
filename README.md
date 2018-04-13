@@ -12,7 +12,7 @@ The Ethereum Example written in Solidity.
 ## Clone
 
 ```
-  git clone https://github.com/fabiojose/ethereum-ex.git
+  git clone https://github.com/ramene/ethereum-ex.git
 ```
 
 ## Install
